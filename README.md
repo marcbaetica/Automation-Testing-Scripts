@@ -28,5 +28,5 @@ Customize env variables:
 
 Notes: (this manual labor might be transferred into the cli automation scripts described above)
 -
-- In order to build off of a git repository make sure you have the Jenkins GitHub Plugin installed (Manage Jenkins -> Manage Plugins -> Available (tab) -> GitHub Plugin (select and install) -> restart container to initiate plugin
+- In order to build off of a git repository make sure you have the Jenkins GitHub Plugin installed (Manage Jenkins -> Manage Plugins -> Available (tab) -> GitHub Plugin (select and install) -> restart container to initiate plugin)
 - Add the environment variables for your dependencies within the Jenkins configuration (Manage Jenkins -> Configure System): for your JDK, Git, Ant & Maven (make sure to uncheck 'Install automatically' before you proceed)

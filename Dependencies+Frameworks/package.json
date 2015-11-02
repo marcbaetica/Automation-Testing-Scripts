@@ -14,7 +14,7 @@
   	"body-parser" : "latest",
   	"nodemon" : "latest",
   	"mongoose" : "latest",
-  	"angular2" : "latest",
+  	"angular" : "latest",
   	"angular2" : "latest",
   	"bootstrap" : "latest",
   	"foundation" : "latest"
