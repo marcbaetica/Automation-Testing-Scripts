@@ -1,0 +1,22 @@
+{
+  "name": "mean_frameworks",
+  "version": "1.0.0",
+  "description": "this package contains the neccesairy frameworks to support SPA applications",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No initialization test specified (for now)\" && exit 1"
+  },
+  "author": "Marc-Alexandru Baetica",
+  "license": "ISC",
+
+  "dependencies": {
+  	"express" : "latest",
+  	"body-parser" : "latest",
+  	"nodemon" : "latest",
+  	"mongoose" : "latest",
+  	"angular2" : "latest",
+  	"angular2" : "latest",
+  	"bootstrap" : "latest",
+  	"foundation" : "latest"
+  }
+}
