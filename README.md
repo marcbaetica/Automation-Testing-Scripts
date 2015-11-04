@@ -1,6 +1,6 @@
 #Automation Testing Package (w scripts)
 
-This repository serves as the backbone of a local set of tools for real time automatic testing, data generation & analysis. Currently the ... is mainly for deployment on a freshly initiated Debian VM locally or on the cloud.
+This repository serves as the backbone of a local set of tools for real time automatic testing, data generation & analysis. Currently this custom package is mainly for deployment on a freshly initiated Debian local machine or on a VM on the cloud.
 
 Technologies and tools:
 -
